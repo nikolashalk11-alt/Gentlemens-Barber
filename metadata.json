@@ -1,0 +1,8 @@
+{
+  "name": "Gentlemen\u0027s Barber",
+  "description": "Gentlemen\u0027s Barber στα Ιωάννινα - Αυθεντικό παραδοσιακό κούρεμα, περιποίηση γενειάδας και κλασικό ξύρισμα. Αβέρωφ 38, Ιωάννινα.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
